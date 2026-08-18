@@ -1,2 +1,1 @@
-# demo_git
-demo for learning Gzit
+this is the practice for collaboration in the git & github
